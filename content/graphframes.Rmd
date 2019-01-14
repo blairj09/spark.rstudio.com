@@ -16,7 +16,7 @@ knitr::opts_chunk$set(warning = FALSE)
 
 ## Highlights
 
-- Support for [GraphFrames](https://graphframes.github.io/) which aims to provide the functionality of [GraphX](http://spark.apache.org/graphx/).
+- Support for [GraphFrames](https://graphframes.github.io/graphframes/) which aims to provide the functionality of [GraphX](http://spark.apache.org/graphx/).
 - Perform graph algorithms like: [PageRank](https://graphframes.github.io/api/scala/index.html#org.graphframes.lib.PageRank), [ShortestPaths](https://graphframes.github.io/api/scala/index.html#org.graphframes.lib.ShortestPaths) and many [others](https://graphframes.github.io/api/scala/#package).
 - Designed to work with [sparklyr](https://spark.rstudio.com) and the [sparklyr extensions](http://spark.rstudio.com/extensions.html).
 
